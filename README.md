@@ -1,4 +1,4 @@
-# vuetify-template
+# Dashboard
 
 ## Dashboard 
 
