@@ -1,5 +1,9 @@
 # vuetify-template
 
+## Dashboard 
+
+![DashBoard](ss.png)
+
 ## Project setup
 ```
 npm install
